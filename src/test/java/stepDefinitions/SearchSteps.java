@@ -42,4 +42,4 @@
 	        logger.info("Product '{}' found in search results.", productName);
 	    }
 	}
-}
+

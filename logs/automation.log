@@ -1,1 +1,56 @@
-16:15:13.358 [main] INFO  - WebDriver initialized successfully for browser: chrome
+15:01:43.304 [main] DEBUG - suiteXmlPath: "C:\Users\lib-11\AppData\Local\Temp\testng-eclipse-244446715\testng-customsuite.xml"
+15:01:44.504 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+15:01:44.507 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+15:01:44.511 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.511 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.511 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.512 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.513 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.513 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.515 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.547 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+15:01:44.548 [main] TRACE - [Graph] ================ SORTING
+15:01:44.551 [main] TRACE - [Graph] =============== DONE SORTING
+15:01:44.551 [main] TRACE - [Graph] ====== SORTED NODES
+15:01:44.551 [main] TRACE - [Graph] ====== END SORTED NODES
+15:01:44.551 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 35 ms.
+15:01:44.553 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.553 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+15:01:44.553 [main] TRACE - [Graph] ================ SORTING
+15:01:44.553 [main] TRACE - [Graph] =============== DONE SORTING
+15:01:44.553 [main] TRACE - [Graph] ====== SORTED NODES
+15:01:44.553 [main] TRACE - [Graph] ====== END SORTED NODES
+15:01:44.553 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.554 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.554 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.555 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.555 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.557 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.557 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.558 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.558 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.564 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.564 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.564 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.564 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.571 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+15:01:44.571 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.ParallelRunner@2a448449] -441225958
+15:01:44.571 [main] TRACE - [Graph] ================ SORTING
+15:01:44.571 [main] TRACE - [Graph] =============== DONE SORTING
+15:01:44.572 [main] TRACE - [Graph] ====== SORTED NODES
+15:01:44.572 [main] TRACE - [Graph] ====== END SORTED NODES
+15:01:44.572 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:01:44.573 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.573 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.574 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:44.574 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:44.617 [main] INFO  - [TestNG] Running:
+  C:\Users\lib-11\AppData\Local\Temp\testng-eclipse-244446715\testng-customsuite.xml
+
+15:01:44.645 [main] INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+15:01:48.823 [main] INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@3ebe4ccc: 153 ms
+15:01:48.824 [main] INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@6ed043d3: 1 ms
+15:01:48.865 [main] INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@58fa5769: 41 ms
+15:01:48.877 [main] INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@54755dd9: 12 ms
+15:01:48.882 [main] INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2bfb583b: 5 ms
+15:01:48.883 [main] INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ae0257: 0 ms

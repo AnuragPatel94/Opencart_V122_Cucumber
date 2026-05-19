@@ -8,10 +8,11 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
 
 		features= {"src/test/resources/features/"},
-		//features = { "src/test/resources/features/Registration.feature", "src/test/resources/features/Login.feature" },
-		// features= {"src/test/resources/features/Registration.feature"},
-		//features= {"src/test/resources/features/Login.feature"},
-		//features= {"@target/rerun.txt"},
+		//features = { "src/test/resources/features/Registration.feature" },
+		//features = { "src/test/resources/features/Login.feature" },
+		// features= { "src/test/resources/features/Registration.feature" },
+		//features=  { "src/test/resources/features/Login.feature" },
+		//features= { "@target/rerun.txt" },
 		//features= {"src/test/resources/features/LoginWithRegisteredUser.feature"},
 		glue = { "stepDefinitions", "hooks" }, 
 		plugin = { "pretty", // Prints formatted Gherkin steps in the console

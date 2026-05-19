@@ -20,12 +20,12 @@ public class LoginSteps {
 
     @When("I navigate to the Login page from the Home page")
     public void navigateToLoginPage() {
-        homePage = new HomePage(driver);
-        homePage.clickMyAccount();
-        logger.info("Clicked on 'My Account' link.");
-        loginPage = homePage.clickLogin();
-        logger.info("Navigated to Login Page.");
-    }
+		homePage = new HomePage(driver);
+		homePage.clickMyAccount();
+		loginPage = homePage.clickLogin();
+		logger.info("Navigated to the Login page from the Home page.");
+	}
+  
 
     @When("I enter valid login credentials")
     public void enterValidCredentials() {
